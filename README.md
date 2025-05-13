@@ -25,6 +25,7 @@ Week 1
     </body>
 </html>
 
+
 <!DOCTYPE html>
 <html>
     <head>
@@ -33,6 +34,13 @@ Week 1
     <body>
         <h2>About us </h2>
         <p>Hello and welcome</p>
-        
+    <a href="index.html">Click here to go to home page</a>    
+
+
+    <img src="images/Pink flower.jfif">
+        <br/>
+        <a href="index.html">Home</a>
+<p>Click the following image</p>
+<a href="Pink.html">img src=images/pink flower.jfif" height="150"</a>
     </body>
 </html>
